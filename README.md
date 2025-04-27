@@ -18,6 +18,6 @@
 - **Browser** [zen](https://zen-browser.app/)
 
 ## Screenshots
-<img align="center" src="/images/screenshots/screenshot1.png>
-<img align="center" src="/images/screenshots/screenshot2.png>
-<img align="center" src="/images/screenshots/screenshot3.png>
+![Desktop](/images/screenshots/screenshot1.png)
+![Terminal](/images/screenshots/screenshot2.png)
+![Lockscreen](/images/screenshots/screenshot3.png)
